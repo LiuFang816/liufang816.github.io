@@ -29,6 +29,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 
 ### Publications (\# means co-first author; \* means corresponding author)
 - **[TOSEM'25]** Jia Li, Chongyang Tao, Jia Li, Ge Li\*, Zhi Jin\*, Huangzhao Zhang, Zheng Fang, **Fang Liu**, Large Language Model-Aware In-Context Learning for Code Generation (**CCF-A**)
+- **[EMSE'25]** SCodeSearcher: Soft Contrastive Learning for Code Search, Jia Li, Zheng Fang, Xianjie Shi, Zhi Jin\*, **Fang Liu**, Jia Li, Yunfei Zhao, Ge Li\* (**CCF-B**)
 - **[ASE'24]** **Fang Liu\#**, Zhenwei Liu\#, Qianhui Zhao, Jing Jiang\*, Li Zhang, Zian Sun, Ge Li, Zhongqi Li, Yuchi Ma, FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments (**CCF-A**)
 - **[ASE'24]** Jiuang Zhao, Donghao Yang, Li Zhang, Xiaoli Lian, Zitian Yang, **Fang Liu**, Enhancing Automated Program Repair with Solution Design (**CCF-A**)
 - **[FSE'24]** Zhen Yang, **Fang Liu\***, Zhongxing Yu\*, Jacky Wai Keung, Jia Li, Shuo Liu, Yifan Hong, Xiaoxue Ma, Zhi Jin, Ge Li, Exploring and Unleashing the Power of Large Language Models in Automated Code Translation (**CCF-A**)
