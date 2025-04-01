@@ -63,6 +63,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 - [\[arxiv\]](https://arxiv.org/abs/2502.17139) Qianhui Zhao, Li Zhang, **Fang Liu\***,Xiaoli Lian\*, Qiaoyuanhe Meng, Ziqian Jiao, Zetong Zhou, Borui Zhang, Runlin Guo, Jia Li, CodeSwift: Accelerating LLM Inference for Efficient Code Generation
 - [\[arxiv\]](https://arxiv.org/pdf/2503.04359) Jia Li, Xuyuan Guo, Lei Li, Kechi Zhang, Ge Li\*, Jia Li, Zhengwei Tao, **Fang Liu**, Chongyang Tao, Yuqi Zhu, Zhi Jin\*, LongCodeU: Benchmarking Long-Context Language Models on Long Code Understanding
 -  [\[arxiv\]](https://arxiv.org/pdf/2503.22688) Peiding Wang, Li Zhang, **Fang Liu\***, Lin Shi\*, Minxiao Li, Bo Shen, An Fu, CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation
+  
 ---
 
 ### Contact
