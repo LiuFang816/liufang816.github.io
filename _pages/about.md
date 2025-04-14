@@ -28,10 +28,10 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 ---
 
 ### Publications (\# means co-first author; \* means corresponding author)
-- **[FSE'25]** Xiaoli Lian, Shuaisong Wang, Hanyu Zou, **Fang Liu**, Jiajun Wu, Li Zhang\*, Incorporating Verification Standards for Security Requirements Generation from Functional Specifications (**CCF-A**, accepted)
-- **[TOSEM'25]** Yuwei Zhang, Zhi Jin\*, Ying Xing, Ge Li\*, **Fang Liu**, Jiaxin Zhu, Wensheng Dou, Jun Wei\*, PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing (**CCF-A**, accepted)
-- **[TOSEM'25]** Jia Li, Chongyang Tao, Jia Li, Ge Li\*, Zhi Jin\*, Huangzhao Zhang, Zheng Fang, **Fang Liu**, Large Language Model-Aware In-Context Learning for Code Generation (**CCF-A**, accepted)
-- **[EMSE'25]** Jia Li, Zheng Fang, Xianjie Shi, Zhi Jin\*, **Fang Liu**, Jia Li, Yunfei Zhao, Ge Li\*, SCodeSearcher: Soft Contrastive Learning for Code Search (**CCF-B**, accepted)
+- **[FSE'25]** Xiaoli Lian, Shuaisong Wang, Hanyu Zou, **Fang Liu**, Jiajun Wu, Li Zhang\*, Incorporating Verification Standards for Security Requirements Generation from Functional Specifications (**CCF-A**)
+- **[TOSEM'25]** Yuwei Zhang, Zhi Jin\*, Ying Xing, Ge Li\*, **Fang Liu**, Jiaxin Zhu, Wensheng Dou, Jun Wei\*, PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing (**CCF-A**)
+- **[TOSEM'25]** Jia Li, Chongyang Tao, Jia Li, Ge Li\*, Zhi Jin\*, Huangzhao Zhang, Zheng Fang, **Fang Liu**, Large Language Model-Aware In-Context Learning for Code Generation (**CCF-A**)
+- **[EMSE'25]** Jia Li, Zheng Fang, Xianjie Shi, Zhi Jin\*, **Fang Liu**, Jia Li, Yunfei Zhao, Ge Li\*, SCodeSearcher: Soft Contrastive Learning for Code Search (**CCF-B**)
 - **[ASE'24]** **Fang Liu\#**, Zhenwei Liu\#, Qianhui Zhao, Jing Jiang\*, Li Zhang, Zian Sun, Ge Li, Zhongqi Li, Yuchi Ma, FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments (**CCF-A**)
 - **[ASE'24]** Jiuang Zhao, Donghao Yang, Li Zhang, Xiaoli Lian, Zitian Yang, **Fang Liu**, Enhancing Automated Program Repair with Solution Design (**CCF-A**)
 - **[FSE'24]** Zhen Yang, **Fang Liu\***, Zhongxing Yu\*, Jacky Wai Keung, Jia Li, Shuo Liu, Yifan Hong, Xiaoxue Ma, Zhi Jin, Ge Li, Exploring and Unleashing the Power of Large Language Models in Automated Code Translation (**CCF-A**)
