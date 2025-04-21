@@ -28,6 +28,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 ---
 
 ### Publications (\# means co-first author; \* means corresponding author)
+- **[TSE'25]** Qianhui Zhao, **Fang Liu\***, Xiao Long, Chengru Wu, Li Zhang\*, On the Applicability of Code Language Models to Scientific Computing Programs (**CCF-A**, accepted)
 - **[FSE'25]** Xiaoli Lian, Shuaisong Wang, Hanyu Zou, **Fang Liu**, Jiajun Wu, Li Zhang\*, Incorporating Verification Standards for Security Requirements Generation from Functional Specifications (**CCF-A**)
 - **[Internetware'25]** Junhang Cheng, **Fang Liu\***, Chengru Wu, Li Zhang, AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for Code-Generation Based on CoT Length (**CCF-C**)
 - **[TOSEM'25]** Yuwei Zhang, Zhi Jin\*, Ying Xing, Ge Li\*, **Fang Liu**, Jiaxin Zhu, Wensheng Dou, Jun Wei\*, PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing (**CCF-A**)
