@@ -53,7 +53,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 - **[ASE'20]** **Fang Liu**, Ge Li, Yunfei Zhao, Zhi Jin, Multi-task Learning based Pre-trained Language Model for Code Completion (**CCF-A**)
 - **[ICPC'20]** **Fang Liu**, Ge Li, Bolin Wei, Xin Xia, Zhiyi Fu, Zhi Jin, A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning (**CCF-B, ACM Distinguished Paper Award**) 
 - **[JSS'20]** **Fang Liu**, Lu Zhang, Zhi Jin, Modeling programs hierarchically with stack-augmented LSTM (**CCF-B**) 
-- **[Journal of Computer Research and Developmen'19]** **Fang Liu**, Ge Li, Xing Hu, Zhi Jin, Program Comprehension Based on Deep Learning (**CCF中文-A**)
+- **[Journal of Computer Research and Development'19]** **Fang Liu**, Ge Li, Xing Hu, Zhi Jin, Program Comprehension Based on Deep Learning (**CCF中文-A**)
 - **[Journal of Software'19]** Xing Hu, Ge Li, **Fang Liu**, Zhi Jin. Program Generation and Code Completion Techniques Based on Deep Learning: Literature Review (**CCF中文-A**)
 - **[Journal of Software'19]** Zhi Jin, **Fang Liu**, Ge Li, Program Comprehension: Present and Future (**CCF中文-A**)
 
