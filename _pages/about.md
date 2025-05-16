@@ -14,7 +14,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 
 ### Education
 
-- 2017/09-2022/07, Peking University, Ph.D. in Computer Science
+- 2017/09-2022/07, Peking University, Ph.D. in Computer Science, supervised by Prof. [Zhi Jin](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl) and Prof. [Ge Li](https://ligechina.github.io/).
 - 2013/09-2017/06, Chongqing University, B.S. in Computer Science
 
 ---
@@ -28,6 +28,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 ---
 
 ### Publications (\# means co-first author; \* means corresponding author)
+- **[ACL'25 main]** Jia Li, Xuyuan Guo, Lei Li, Kechi Zhang, Ge Li\*, Jia Li, Zhengwei Tao, **Fang Liu**, Chongyang Tao, Yuqi Zhu, Zhi Jin\*, LongCodeU: Benchmarking Long-Context Language Models on Long Code Understanding (**CCF-A**, accepted)
 - **[TSE'25]** Qianhui Zhao, **Fang Liu\***, Xiao Long, Chengru Wu, Li Zhang\*, On the Applicability of Code Language Models to Scientific Computing Programs (**CCF-A**, accepted)
 - **[FSE'25]** Xiaoli Lian, Shuaisong Wang, Hanyu Zou, **Fang Liu**, Jiajun Wu, Li Zhang\*, Incorporating Verification Standards for Security Requirements Generation from Functional Specifications (**CCF-A**)
 - **[Internetware'25]** Junhang Cheng, **Fang Liu\***, Chengru Wu, Li Zhang, AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for Code-Generation Based on CoT Length (**CCF-C**)
@@ -64,7 +65,6 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 - [\[arxiv\]](https://arxiv.org/pdf/2404.01754.pdf) Qianhui Zhao\#, **Fang Liu\#**, Li Zhang, Yang Liu, Zhen Yan, Zhenghao Chen, Yufei Zhou, Jing Jiang, Ge Li, Peer-aided Repairer: Empowering Large Language Models to Repair Advanced Student Assignments
 - [\[arxiv\]](https://arxiv.org/pdf/2412.02410) Donghao Yang\#, Aolang Wu\#, Tianyi Zhang\#, Li Zhang, **Fang Liu\***, Xiaoli Lian\*, Yuming Ren, Jiaji Tian, A Multi-Agent Framework for Extensible Structured Text Generation in PLCs
 - [\[arxiv\]](https://arxiv.org/abs/2502.17139) Qianhui Zhao, Li Zhang, **Fang Liu\***,Xiaoli Lian\*, Qiaoyuanhe Meng, Ziqian Jiao, Zetong Zhou, Borui Zhang, Runlin Guo, Jia Li, CodeSwift: Accelerating LLM Inference for Efficient Code Generation
-- [\[arxiv\]](https://arxiv.org/pdf/2503.04359) Jia Li, Xuyuan Guo, Lei Li, Kechi Zhang, Ge Li\*, Jia Li, Zhengwei Tao, **Fang Liu**, Chongyang Tao, Yuqi Zhu, Zhi Jin\*, LongCodeU: Benchmarking Long-Context Language Models on Long Code Understanding
 -  [\[arxiv\]](https://arxiv.org/pdf/2503.22688) Peiding Wang, Li Zhang, **Fang Liu\***, Lin Shi\*, Minxiao Li, Bo Shen, An Fu, CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation
 - [\[arxiv\]](https://arxiv.org/pdf/2504.10046) Jia Li, Xianjie Shi, Kechi Zhang, Lei Li, Ge Li, Zhengwei Tao, **Fang Liu**, Chongyang Tao, Zhi Jin, CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation
   
