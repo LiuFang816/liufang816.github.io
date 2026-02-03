@@ -1,0 +1,24 @@
+---
+title:          "Beyond Functional Correctness: Exploring Hallucinations in LLM-Generated Code"
+date:           2026-01-23
+selected:       true
+pub:            "IEEE Transactions on Software Engineering (TSE'26)"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
+pub_date:       "2026"
+
+authors:
+  - Fang Liu
+  - Yang Liu
+  - Lin Shi
+  - Zhen Yang
+  - Li Zhang#
+  - Xiaoli Lian
+  - Zhongqi Li
+  - Yuchi Ma
+
+links:
+  Paper: https://arxiv.org/abs/2404.00971
+  Code: https://github.com/Lorien1128/code_hallucination
+---
